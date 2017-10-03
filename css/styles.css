@@ -59,8 +59,9 @@
        min-height: 300px; 
    }
    
-   #carousel-button{
-       right: 0px;
-       position: absolute;
-       bottom: 0px;
-   }
+
+   #carouselButtons {
+    right:0px;
+    position: absolute;
+    bottom: 0px;
+}
